@@ -22,7 +22,7 @@ The dashboard enables:
 
 ## Project Preview
 
-A **first draft of the project** is available at the following link:  
+A **first draft of the project** is available at the following link (you'll need a Microsoft Power BI Service Account to access):  
 [Coppo 1896 Dashboard on Power BI](https://app.powerbi.com/links/qi1Y-w3r-t?ctid=25ce0261-bbd6-49cd-a1e2-54260886d159&pbi_source=linkShare)
 
 ## Notes and Limitations
